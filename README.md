@@ -25,7 +25,6 @@ Dateien anzeigen
 ### 1.1 Ihr Projekt
 
 ✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
-
 Das Programm soll zeigen, wo unsere Dateien gespeichert sind.
 
 ### 1.2 User Stories
@@ -87,10 +86,10 @@ Total:
 |      |alle|dokumentation|              |               |
 |      |Brandon|Design|              |               |
 |      |Mohammand|Kontrollieren|              |               |
-|      |alle|Informieren|25.09.2022|               |
-|      |Sathana|Auftragsanalyse|19.10.2022|               |
+|      |alle|Informieren|              |               |
+|      |Sathana|Auftragsanalyse|              |               |
 |      |Sathana, Nicola|Vorstellung zeichnen|              |               |
-|      |Nicola|PAP-design|19.10.2022|               |
+|      |       |           |              |               |
 
 
 
@@ -109,8 +108,13 @@ Total:
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| 1    | x.10  |  x      |   Mohammad     |
+| 2    | x.10  |  x      |   Mohammad     |
+| 3    | x.10  |  x      |   Mohammad     |
+| 4    | x.10  |  x      |   Mohammad     |
+| 5    | x.10  |  x      |   Mohammad     |
+| 6    | x.10  |  x      |   Mohammad     |
+| 7    | x.10  |  x      |   Mohammad     |
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
