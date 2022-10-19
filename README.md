@@ -60,6 +60,9 @@ Das Programm soll zeigen, wo unsere Dateien gespeichert sind.
 ### 1.4 Diagramme
 
 ✍️ Hier können Sie PAPs, Use Case- und Gantt-Diagramme oder Ähnliches einfügen.
+![image](https://user-images.githubusercontent.com/111046257/196634727-fbc9b382-c769-4c1f-b987-e5211f686f24.png)
+![image](https://user-images.githubusercontent.com/111046257/196634771-d5b579d5-d8ba-4b9f-a881-4d9a99a44a5f.png)
+
 
 ## 2 Planen
 
