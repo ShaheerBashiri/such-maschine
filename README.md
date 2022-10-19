@@ -36,6 +36,18 @@ Das Programm soll zeigen, wo unsere Dateien gespeichert sind.
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
+
+### 1.21 Anforderungsanalyse
+| AA-№ | Typ | Anforderung  |
+| ---- | ------------ | ------- |
+|1|Funktional||Das Programm soll vom Benutzer die Dateinamen abfragen. |
+|2|Funktional|Das Programm soll automatisch die Dateien ordnen.| 
+|3|Funktional|Das Programm soll eine Suchoption zur Verfügung haben.|  
+|4|Randbedingungen|Das Programm muss in C# geschrieben sein.|   
+|5|Funktional|Das Programm soll ein Ergebnis zeigen.|   
+|6|Qualität|Das Programm soll Anzahl Ergebnis zeigen.|      
+|7|Qualität| Das Programm soll farbig aussehen.  |
+
 ### 1.3 Testfälle
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
