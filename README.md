@@ -66,14 +66,14 @@ Total:
 
 ✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
 
-| Zuständig | was|Datum| Erledigt?| 
-| --------- | ------------- | ----------------- |                   |
-|alle|Dokumentaion|                   |                   |
-|Brandon|Design|                   |                   |
-|Mohammad|Kontrollieren|                   |                   |
-|alle|Informieren|                   |                   |
-|Sathana|Auftragsanalyse|                   |                   |
-|Sathana/Nicola|Vorstellung zeichnen|                   |                   |
+|AP-№| Zuständig | was|Datum| Erledigt?| 
+|    | --------- | ------------- | ----------------- |                   |
+|    |alle|Dokumentaion|                   |                   |
+|    |Brandon|Design|                   |                   |
+|    |Mohammad|Kontrollieren|                   |                   |
+|    |alle|Informieren|                   |                   |
+|    |Sathana|Auftragsanalyse|                   |                   |
+|    |Sathana/Nicola|Vorstellung zeichnen|                   |                   |
 
 ## 4 Realisieren
 
