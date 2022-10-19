@@ -3,6 +3,8 @@
 ☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
 
 ✍️ Ihr Gruppenname und Ihre Nachnamen
+Gruppennamen: Such-Maschine
+Mitglieder: Sathana Suganthasri, Nicola Luca.Karrer, Brandon Spaqi und Mohammad Shahir.Bashiri
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
@@ -11,10 +13,19 @@
 |       | 1.0.0   |                                                              |
 
 ## 1 Informieren
+Man hat verschiedene Text-Dateien in verschiedenen Ordnern. Man kann nach diesen Dateien individuell suchen oder die Such-Option benutzen. Hier kann man dann einen Begriff eingeben, der dann alle Dateien anzeigt, die diesen Begriff haben. 
+Dateien hineinfügen 
+Ordner erstellen 
+Titel für Ordner 
+Dateien automatisch einordnen 
+Begriff eingeben 
+Dateien anzeigen 
+
 
 ### 1.1 Ihr Projekt
 
 ✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
+Das Programm soll zeigen, wo unsere Dateien gespeichert sind.
 
 ### 1.2 User Stories
 
@@ -54,6 +65,8 @@ Total:
 ## 3 Entscheiden
 
 ✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+
+
 
 ## 4 Realisieren
 
